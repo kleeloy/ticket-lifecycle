@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kleeloy/ticket-lifecycle/blob/main/Diagrams/Intake_From_user_lab_3.png" height="70%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Created a ticket as Ken and Karen with password reset 
@@ -38,7 +38,7 @@ Created a ticket as Ken and Karen with password reset
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kleeloy/ticket-lifecycle/blob/main/Diagrams/New_ticket_seen_from_agents_lab_3.png" height="70%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Logging into an agents account (Jane Doe) , and looking at the ticket assigned (with Karen and Ken needing password resets.
@@ -46,7 +46,10 @@ Logging into an agents account (Jane Doe) , and looking at the ticket assigned (
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kleeloy/ticket-lifecycle/blob/main/Diagrams/Assigned_to_Jane_Jane_communicating_to_user_lab_3.png" height="70%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/kleeloy/ticket-lifecycle/blob/main/Diagrams/Ticket_status_completed_lab_3.png" height="70%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Jane Doe, agent, working on ticket and closing the ticket once it was resolved.
@@ -54,7 +57,7 @@ Jane Doe, agent, working on ticket and closing the ticket once it was resolved.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kleeloy/ticket-lifecycle/blob/main/Diagrams/Ticket_resolved_on_user_side_lab_3.png" height="70%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Showing on users side, Karen, that is has been resolved and can reset password. 
